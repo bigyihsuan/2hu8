@@ -1,9 +1,0 @@
-[submodule "MX_V2"]
-	path = MX_V2
-	url = https://github.com/ai03-2725/MX_V2
-[submodule "Keebio-Parts.pretty"]
-	path = Keebio-Parts.pretty
-	url = https://github.com/keebio/Keebio-Parts.pretty
-[submodule "keebio-components"]
-	path = keebio-components
-	url = https://github.com/keebio/keebio-components
