@@ -1,0 +1,31 @@
+shift z x c
+arrow keys
+all in arrow key layout
+c above z
+
+https://www.keyboard-layout-editor.com/
+[{x:1},"C"],
+["Shift","Z","X"],
+[{x:1},"↑"],
+["←","↓","→"]
+
+jst-sh 4 pin
+TRRS 3.5mm jack
+
+controllers
+Adafruit KB2040 - RP2040 Kee Boar Driver has jst connector already on it
+https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/overview
+
+
+
+matrix
+at 8 keys, better to have each key be 1 pin?
+Can do in 6 wires: treat as 2x4 grid. 2 rows, 2 columns for each pair. Split half can run row and col wires through some 4-wire connection (acts as extension of matrix)
+
+https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide
+
+
+firmware
+https://docs.qmk.fm/syllabus
+https://docs.qmk.fm/hand_wire
+https://docs.qmk.fm/features/split_keyboard
