@@ -4,13 +4,15 @@ all in arrow key layout
 c above z
 
 https://www.keyboard-layout-editor.com/
-[{x:1},"C"],
-["Shift","Z","X"],
-[{x:1},"↑"],
-["←","↓","→"]
+["Esc","C",{x:2.75},"↑","R"],
+["Shift","Z","X",{x:0.75},"←","↓","→"]
+
 
 jst-sh 4 pin
 TRRS 3.5mm jack
+
+trrs can act as an extender of the matrix
+can handle up to 4 wires
 
 controllers
 Adafruit KB2040 - RP2040 Kee Boar Driver has jst connector already on it
@@ -38,4 +40,4 @@ https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atm
 ATmega32U4
 from https://www.sparkfun.com/pro-micro-5v-16mhz.html
 
-https://keeb.io/products/trrs-jack-3-5mm
+https://keeb.io/products/trrs-jack-3-5mm PJ-320A
