@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D10, D7, D8, D9",Diode_DO-35,4,~,
+"S10, S7, S8, S9",MX_PCB_1.00u,4,~,
+U3,TRRS_PJ-320A,1,TRRS,
