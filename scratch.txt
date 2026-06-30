@@ -27,12 +27,6 @@ Can do in 6 wires: treat as 2x4 grid. 2 rows, 2 columns for each pair. Split hal
 https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide
 
 
-firmware
-https://docs.qmk.fm/syllabus
-https://docs.qmk.fm/hand_wire
-https://docs.qmk.fm/features/split_keyboard
-
-
 https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
 https://www.youtube.com/watch?v=8WXpGTIbxlQ
 
@@ -42,3 +36,12 @@ TRRS PJ-320A https://keeb.io/products/trrs-jack-3-5mm
 Pro Micro USB-C https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4?_pos=16&_fid=7eca9f274&_ss=c ATmega32U4 from https://www.sparkfun.com/pro-micro-5v-16mhz.html
 1N4148 Diodes https://keeb.io/products/1n4148-diodes?_pos=1&_psq=diode&_ss=e&_v=1.0
 
+
+
+firmware
+https://docs.qmk.fm/syllabus
+https://docs.qmk.fm/hand_wire
+https://docs.qmk.fm/features/split_keyboard
+https://docs.qmk.fm/newbs_building_firmware
+
+https://docs.qmk.fm/newbs_external_userspace

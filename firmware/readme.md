@@ -2,10 +2,10 @@
 
 ![2hu8](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+The **2hu8** is a 10-key "split" board meant for playing Touhou Project smhups, and other games with a similar arrow-keys-and-shift-ZXC control layout.
 
 * Keyboard Maintainer: [bigyihsuan](https://github.com/bigyihsuan)
-* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Supported: Pro Micro ATmega32U4
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
