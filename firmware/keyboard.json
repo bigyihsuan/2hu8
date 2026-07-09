@@ -14,7 +14,7 @@
         "cols": ["D1", "D0", "D4", "E6", "D7"],
         "rows": ["B4", "C6"]
     },
-    "url": "",
+    "url": "https://github.com/bigyihsuan/2hu8",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",

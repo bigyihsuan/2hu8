@@ -7,10 +7,10 @@ Games that use a similar layout should also be playable (e.g. Undertale/Deltarun
 
 The board is split into two halves, both in the shape of the arrow key cluster.
 
-| Half  | Keys                |
-| ----- | ------------------- |
-| Left  | Shift, Z, X, C, Esc |
-| Right | Arrow keys, R       |
+| Half  | Keys                   |
+| ----- | ---------------------- |
+| Left  | Shift, Z, X, Esc, R, C |
+| Right | Arrow keys             |
 
 The left half houses the microcontroller, and is connected to the right half with a TRRS cable.
 
