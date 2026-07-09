@@ -1,0 +1,10 @@
+wall thickness: 5mm
+dist. between pcb and inner wall: 0.3mm
+inside wall radius: 2mm
+height (pcb to top of wall): 11mm (from 11.5mm pcb to cap)
+
+
+19.62mm - 28.54mm
+78mm => 0.114 slope => 6.5 deg
+
+filets: 1mm on top and bottom edges only
