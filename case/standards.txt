@@ -8,9 +8,20 @@ screw holes: 2.5mm
 19.62mm - 28.54mm
 78mm => 0.114 slope => 6.5 deg
 
-filets: 1mm on top and bottom edges only
+pro micro usb port; from top of pcb: 4mm(bottom of port) 3mm height/9mm width
+trrs cable: 7.5x6.5x23.5mm
 
+trrs stickout: 2mm from pcb edge
+
+bottom clearance:
+- pro micro pins: 4mm
+- trrs: 5mm
+=> 6mm from bottom of pcb to top of bottom case
+
+filets: 1mm on top and bottom edges only
 
 post-processing:
 - all screw holes: enlargen with drill (min 3mm)
-- all screws: m2x8mm
+- all screws: min 9.5mm
+
+rubber tape: 4x25mm
