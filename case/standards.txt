@@ -1,6 +1,6 @@
 wall thickness: 5mm
-dist. between pcb and inner wall: 0.3mm
-inside wall radius: 2mm
+dist. between pcb and inner wall: 0.5mm on each side
+follow pcb corner curves
 height (pcb to top of wall): 11mm (from 11.5mm pcb to cap)
 screw holes: 2.5mm
 
